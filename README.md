@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning webpack & vite
+- 🌱 I’m currently learning rust & AI
 - 💬 Ask me about anything
 - ⚡ keep learning
 
